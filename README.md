@@ -1,8 +1,8 @@
-# Android Prework - Hello Beautiful World!
+# Android Prework - **Hello Beautiful World!**
 
-Submitted by: Mitchell Elliot
+Submitted by: **Mitchell Elliot**
 
-Hello Beautiful World is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello Beautiful World!** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **2** hours spent in total
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/MyNRcEB.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/MyNRcEB.mp4' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 MP4 created with OBS Studio
 
