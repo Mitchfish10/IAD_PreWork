@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloBeautifulWorld</string>
+    <string name="mitch_intro">Hello Beautiful World! My name is Mitchell. I love learning new things and playing table top RPG\'s with my friends.</string>
+    <string name="button_hello">SAY HELLO!</string>
+</resources>
