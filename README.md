@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/MyNRcEB.mp4' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<iframe width="560" height="315" src="https://i.imgur.com/MyNRcEB.mp4" frameborder="0" allowfullscreen></iframe>
+      </iframe>
 
 MP4 created with OBS Studio
 
